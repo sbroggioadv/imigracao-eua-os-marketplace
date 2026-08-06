@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "imigracao-eua-os-marketplace",
+  "description": "Marketplace oficial do plugin imigracao-eua-os — imigração para os Estados Unidos em 3 frentes (imigrante, comercial, advogado), com trava de representação 8 CFR 292.1 e varredura de vigência.",
+  "owner": {
+    "name": "IA Combativa"
+  },
+  "plugins": [
+    {
+      "name": "imigracao-eua-os",
+      "source": "./imigracao-eua-os",
+      "description": "Assistente completo de imigração para os Estados Unidos, com três frentes no mesmo produto: quem quer emigrar, quem vende o serviço e quem monta o processo. Catálogo completo do país — visto não-imigrante, green card, humanitário, naturalização, inadmissibilidade, barras e waivers. Gates: varredura de vigência + trava 8 CFR 292.1.",
+      "author": {
+        "name": "IA Combativa"
+      }
+    }
+  ]
+}

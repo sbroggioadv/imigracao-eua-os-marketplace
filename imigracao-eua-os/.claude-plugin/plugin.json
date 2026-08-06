@@ -1,0 +1,8 @@
+{
+  "name": "imigracao-eua-os",
+  "version": "0.1.0",
+  "description": "Assistente completo de imigração para os Estados Unidos, com três frentes no mesmo produto: quem quer emigrar, quem vende o serviço (advogado ou consultor) e quem monta o processo administrativo ou judicial. Catálogo completo do país — todo o alfabeto de visto não-imigrante, todas as categorias de green card, humanitário, naturalização e o que dá errado (inadmissibilidade, barras de 3 e 10 anos, waivers, removal). Construído sobre a lei vigente capturada da fonte oficial (8 CFR pelo eCFR, INA pelo GPO, Policy Alerts do USCIS de 2026), com dois gates: varredura de vigência antes de qualquer resposta operacional, e a trava de representação do 8 CFR 292.1 — que define, pela linha geográfica, o que o advogado brasileiro pode e não pode fazer.",
+  "author": {
+    "name": "IA Combativa"
+  }
+}
