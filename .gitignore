@@ -1,0 +1,10 @@
+.DS_Store
+.aiox/
+.synapse/
+__pycache__/
+*.pyc
+.planning/
+MEMORY.md
+dist/
+audit/
+.entregaveis/
