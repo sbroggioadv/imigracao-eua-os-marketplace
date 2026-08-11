@@ -1,13 +1,13 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "imigracao-eua-os-marketplace",
-  "description": "Marketplace oficial do plugin imigracao-eua-os v0.1.1 — imigração EUA em 3 frentes, gaps declarados, trava 8 CFR 292.1.",
+  "description": "Marketplace oficial do plugin imigracao-eua-os v0.1.2 — imigração EUA em 3 frentes, gaps declarados, trava 8 CFR 292.1.",
   "owner": { "name": "IA Combativa" },
   "plugins": [
     {
       "name": "imigracao-eua-os",
       "source": "./imigracao-eua-os",
-      "description": "Imigração para os EUA em 3 frentes (imigrante · comercial · advogado), com gaps materiais declarados e travas de vigência + 8 CFR 292.1. Código MIT; compra Kirvano = pacote/manual/suporte.",
+      "description": "Imigração para os EUA em 3 frentes (imigrante · comercial · advogado), com gaps materiais declarados e travas de vigência + 8 CFR 292.1. Não é software livre: o uso é licenciado pela compra (Kirvano) — ver LICENSE.",
       "author": { "name": "IA Combativa" }
     }
   ]

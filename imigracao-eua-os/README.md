@@ -46,8 +46,10 @@ Settings → Plugins → Pessoal → “+” → cola a URL → instala `imigrac
 
 ## Código × compra
 
-- **Código no GitHub:** MIT (clonável sem compra).  
-- **Compra Kirvano:** manual, capa, onboarding e **90 dias de suporte técnico** (instalação/uso/packaging — **não** é consultoria jurídica do seu caso).
+- **Código no GitHub:** **não é software livre.** O repositório é público para viabilizar a instalação no Cowork/Claude Code; o direito de usar o código é concedido pela compra — ver [`LICENSE`](./LICENSE).
+- **Compra Kirvano:** licença de uso do plugin na versão adquirida + manual, capa, onboarding e **90 dias de suporte técnico** (instalação/uso/packaging — **não** é consultoria jurídica do seu caso).
+
+<sub>As cópias obtidas até 11/08/2026 foram distribuídas sob MIT e permanecem sob MIT; nenhuma concessão anterior é revogada.</sub>
 
 ## Aviso
 

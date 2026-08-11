@@ -1,7 +1,7 @@
 {
   "name": "imigracao-eua-os",
-  "version": "0.1.1",
-  "description": "Imigração para os EUA em 3 frentes (imigrante · comercial · advogado): mapa de vistos e green card, humanitário, naturalização, inadmissibilidade, barras e waivers — com gaps materiais declarados (PERM/DOL, expedited removal, public charge detalhado etc.). Gates: varredura de vigência no dia + trava 8 CFR 292.1 (linha geográfica). Não substitui attorney licenciado nos EUA em matéria inland. Código no GitHub sob MIT; compra Kirvano = pacote/manual/suporte.",
+  "version": "0.1.2",
+  "description": "Imigração para os EUA em 3 frentes (imigrante · comercial · advogado): mapa de vistos e green card, humanitário, naturalização, inadmissibilidade, barras e waivers — com gaps materiais declarados (PERM/DOL, expedited removal, public charge detalhado etc.). Gates: varredura de vigência no dia + trava 8 CFR 292.1 (linha geográfica). Não substitui attorney licenciado nos EUA em matéria inland. Não é software livre: o uso é licenciado pela compra (Kirvano) — ver LICENSE.",
   "author": {
     "name": "IA Combativa"
   }
