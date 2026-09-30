@@ -8,7 +8,7 @@
 > 👉 **[Adquirir a licença](https://pay.kirvano.com/0c30bc7e-604e-44c9-afb8-ec4d82f8dc87)**
 >
 > **Ao forkar ou clonar este repositório você adere à [licença de uso](LICENSE)**, devendo efetuar o
-> pagamento no link acima e enviar o comprovante para **luis@sbroggio.com.br**.
+> pagamento no link acima e enviar o comprovante para **luis@sbroggio.io**.
 >
 > Os forks são públicos no GitHub e são registrados pelo titular (data, conta e repositório).
 >
